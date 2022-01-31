@@ -1,0 +1,15 @@
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\bin\Debug\net6.0\NotAVirus.exe
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\bin\Debug\net6.0\NotAVirus.deps.json
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\bin\Debug\net6.0\NotAVirus.runtimeconfig.json
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\bin\Debug\net6.0\NotAVirus.dll
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\bin\Debug\net6.0\ref\NotAVirus.dll
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\bin\Debug\net6.0\NotAVirus.pdb
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\obj\Debug\net6.0\NotAVirus.csproj.AssemblyReference.cache
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\obj\Debug\net6.0\NotAVirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\obj\Debug\net6.0\NotAVirus.AssemblyInfoInputs.cache
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\obj\Debug\net6.0\NotAVirus.AssemblyInfo.cs
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\obj\Debug\net6.0\NotAVirus.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\obj\Debug\net6.0\NotAVirus.dll
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\obj\Debug\net6.0\ref\NotAVirus.dll
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\obj\Debug\net6.0\NotAVirus.pdb
+C:\Users\Jeo\source\repos\NotAVirus\NotAVirus\obj\Debug\net6.0\NotAVirus.genruntimeconfig.cache
